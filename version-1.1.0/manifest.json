@@ -1,0 +1,17 @@
+{
+  "Name": "Zipline Customizer",
+  "Version": "1.1.0",
+  "Id": "Souvy.ZiplineCustomizer",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "Allows players to configure zipline max connection distance, connection angle, connections per tower, and travel speed directly in Mod Settings.",
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinimumVersion": "2.3.3"
+    },
+    {
+      "Id": "eMka.ModSettings",
+      "MinimumVersion": "0.6.5.1"
+    }
+  ]
+}

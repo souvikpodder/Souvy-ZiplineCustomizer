@@ -1,0 +1,10 @@
+ID,Text,Comment
+Souvy.ZiplineCustomizer.Setting.Header,Zipline Customizer Settings,-
+Souvy.ZiplineCustomizer.Setting.MaxDistance.Label,Max Connection Distance (Blocks),-
+Souvy.ZiplineCustomizer.Setting.MaxDistance.Tooltip,Maximum allowed cable distance between two zipline towers (10 to 500 blocks).,-
+Souvy.ZiplineCustomizer.Setting.MaxAngle.Label,Max Connection Angle (Degrees),-
+Souvy.ZiplineCustomizer.Setting.MaxAngle.Tooltip,Maximum allowed vertical inclination angle for zipline cables (10° to 89°).,-
+Souvy.ZiplineCustomizer.Setting.MaxConnections.Label,Max Connections Per Tower,-
+Souvy.ZiplineCustomizer.Setting.MaxConnections.Tooltip,Maximum number of zipline cables that can attach to a single tower (1 to 20 connections).,-
+Souvy.ZiplineCustomizer.Setting.SpeedMultiplier.Label,Zipline Travel Speed Multiplier,-
+Souvy.ZiplineCustomizer.Setting.SpeedMultiplier.Tooltip,Speed multiplier for beavers and bots traveling along ziplines (1x to 5x multiplier).,-

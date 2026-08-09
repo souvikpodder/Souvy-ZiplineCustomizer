@@ -1,0 +1,33 @@
+{
+    "name": "ZiplineCustomizer",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "0Harmony.dll",
+        "ModSettings.Core.dll",
+        "ModSettings.Common.dll",
+        "Bindito.Core.dll",
+        "Timberborn.BaseComponentSystem.dll",
+        "Timberborn.BlockSystem.dll",
+        "Timberborn.Common.dll",
+        "Timberborn.CoreUI.dll",
+        "Timberborn.Modding.dll",
+        "Timberborn.ModManagerScene.dll",
+        "Timberborn.PathSystem.dll",
+        "Timberborn.SettingsSystem.dll",
+        "Timberborn.SingletonSystem.dll",
+        "Timberborn.TemplateSystem.dll",
+        "Timberborn.WalkingSystem.dll",
+        "Timberborn.ZiplineMovementSystem.dll",
+        "Timberborn.CharacterMovementSystem.dll",
+        "Timberborn.ZiplineSystem.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
